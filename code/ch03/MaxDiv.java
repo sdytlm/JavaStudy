@@ -8,6 +8,6 @@ public class  MaxDiv
 			if( a % i == 0 ) break;
 			i--;
 		}
-		System.out.println(a + "的最大真约数为：" + i);
+		System.out.println(a + "  " + i);
 	}
 }

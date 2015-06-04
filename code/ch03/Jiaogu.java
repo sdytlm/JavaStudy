@@ -3,7 +3,7 @@ class Jiaogu
 {
 	public static void main(String[] args) 
 	{
-		System.out.print("\n请输入一个数:");
+		System.out.print("\nInput:");
 		try{
 			BufferedReader br = new BufferedReader ( 
 				new InputStreamReader( System.in ) );
